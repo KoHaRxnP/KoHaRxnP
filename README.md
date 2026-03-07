@@ -1,5 +1,8 @@
-## Hi there 👋
+# Hi there! I am KoHaRxnP!
 
+## Links
+  [Korphere](https://korphere.pages.dev)　　
+  [KoHaRxnP](https://koharxnp.pages.dev)　　
 <!--
 **KoHaRxnP/KoHaRxnP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
