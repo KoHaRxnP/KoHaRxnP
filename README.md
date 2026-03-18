@@ -41,3 +41,12 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ### 🐍 Contribution Snake
 ![snake](https://raw.githubusercontent.com/KoHaRxnP/KoHaRxnP/output/github-contribution-grid-snake.svg)
+
+### 3D Contribution
+![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=KoHaRxnP&theme=radical)
+
+### HITS
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+### Status
+[![Spotify](https://novatorem-spotify-info.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&github_username=KoHaRxnP)](https://open.spotify.com/user/KoHaRxnP)
