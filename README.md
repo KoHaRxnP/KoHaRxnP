@@ -1,8 +1,15 @@
-# Hi there! I am KoHaRxnP!
+# Hi there! I'm KoHaRxnP!
 
-## Links
-  [Korphere](https://korphere.pages.dev)　　
-  [KoHaRxnP](https://koharxnp.pages.dev)　　
+ 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=あなたのユーザー名&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=あなたのユーザー名)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **KoHaRxnP/KoHaRxnP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
