@@ -42,7 +42,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 ![snake](https://raw.githubusercontent.com/KoHaRxnP/KoHaRxnP/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KoHaRxnP&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KoHaRxnP&theme=radical&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 3D Contributions
 ![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=KoHaRxnP&theme=radical)
@@ -51,4 +51,4 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)
 
 ### 🎵 Spotify Status
-[![Spotify](https://novatorem-spotify-info.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&github_username=KoHaRxnP)](https://open.spotify.com/user/あなたのSpotifyユーザーID)
+[![Spotify](https://novatorem-spotify-info.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&github_username=KoHaRxnP)](https://open.spotify.com/user/KoHaRxnP)
