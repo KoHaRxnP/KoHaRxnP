@@ -44,14 +44,25 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 ![snake](https://raw.githubusercontent.com/KoHaRxnP/KoHaRxnP/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KoHaRxnP&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KoHaRxnP&theme=onedark" alt="trophy" />
+  </a>
+</p>
 
 ### 📊 3D Contributions
-![GitHub 3D Contrib](https://github-profile-3d-contrib.vercel.app/api?username=KoHaRxnP&theme=radical)
+<p align="left">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=KoHaRxnP&theme=radical" alt="GitHub 3D Contrib" />
+</p>
 
 ### 📈 Visitors
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false)
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="Hits" />
+</p>
 
 ### 🎵 Spotify Status
-[![Spotify](https://novatorem-spotify-info.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&github_username=KoHaRxnP)](https://open.spotify.com/user/KoHaRxnP)
+<p align="left">
+  <a href="https://open.spotify.com/user/あなたのSpotifyユーザーIDなど">
+    <img src="https://novatorem-spotify-info.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&github_username=KoHaRxnP" alt="Spotify" />
+  </a>
+</p>
