@@ -10,19 +10,8 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical" alt="Top Langs" height="165" />
-</p>
-
----
-
 ## 🛠 My Skills
+
 <details open>
   <summary><b>Languages & Frameworks</b></summary>
   <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,opencv,postgres,regex,styledcomponents,svg,swift,tauri" />
@@ -35,7 +24,20 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical" alt="Top Langs" height="165" />
+</p>
+
+---
+
 ## ✍️ Latest Blog Posts
+
 ---
 
 ### 🐍 Contribution Snake
