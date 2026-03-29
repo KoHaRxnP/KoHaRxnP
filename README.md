@@ -43,11 +43,8 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 ![snake](https://raw.githubusercontent.com/KoHaRxnP/KoHaRxnP/output/github-contribution-grid-snake.svg)
 
 ### 🏆 Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KoHaRxnP&theme=onedark" alt="trophy" />
-  </a>
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?Korphere=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📊 3D Contributions
 <p align="left">
