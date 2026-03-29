@@ -58,6 +58,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 </p>
 
 ### 🎵 Spotify Status
+
 <p align="left">
   <a href="https://open.spotify.com/user/KoHaRxnP">
     <img src="https://novatorem-spotify-info.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&github_username=KoHaRxnP" alt="Spotify" />
