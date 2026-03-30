@@ -1,4 +1,6 @@
-# Hi there! I'm KoHaRxnP! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5A58BA&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+KoHaRxnP!">
+</p>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=KoHaRxnP&fontSize=90&animation=fadeIn&fontAlignY=38)
 
