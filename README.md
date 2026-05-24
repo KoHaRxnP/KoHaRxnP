@@ -37,7 +37,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical" alt="Top Langs" height="165" />
 </p>
 
-<img src="https://github-stats-eta-two.vercel.app/api/stats/MocA-Love?theme=github" alt="Developer Score">
+<img src="https://github-stats-eta-two.vercel.app/api/stats/KoHaRxnP?theme=github" alt="Developer Score">
 
 ---
 
