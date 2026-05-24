@@ -4,7 +4,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=KoHaRxnP&fontSize=90&animation=fadeIn&fontAlignY=38)
 
-## 💫 About Me
+## About Me
 I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about building robust and scalable applications.
 
 ### kohaɾɯpʲii
@@ -13,7 +13,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ---
 
-## 🛠 My Skills
+## My Skills
 
 <details open>
   <summary><b>Languages & Frameworks</b></summary>
@@ -27,7 +27,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
@@ -37,34 +37,26 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical" alt="Top Langs" height="165" />
 </p>
 
----
-
-## ✍️ Latest Blog Posts
+<img src="https://github-stats-eta-two.vercel.app/api/stats/MocA-Love?theme=github" alt="Developer Score">
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 ![snake](https://raw.githubusercontent.com/KoHaRxnP/KoHaRxnP/output/github-contribution-grid-snake.svg)
 
-### 🏆 Trophies
+### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?Korphere=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📊 3D Contributions
+### 3D Contributions
 
 <p align="left">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=KoHaRxnP&theme=radical" alt="GitHub 3D Contrib" />
 </p>
 
-### 📈 Visitors
+### Visitors
 <p align="left">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&count_bg=%23bf3989&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISITORS&edge_flat=false" alt="Hits" />
 </p>
 
-### 🎵 Spotify Status
-
-<p align="left">
-  <a href="https://open.spotify.com/user/KoHaRxnP">
-    <img src="https://novatorem-spotify-info.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&github_username=KoHaRxnP" alt="Spotify" />
-  </a>
-</p>
+###
