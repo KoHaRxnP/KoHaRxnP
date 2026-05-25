@@ -28,6 +28,9 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 ---
 
 ## GitHub Stats
+
+[![KoHaRxnP's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHaRxnP)](https://github.com/KoHaRxnP/github-readme-stats)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
