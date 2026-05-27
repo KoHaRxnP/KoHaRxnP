@@ -23,7 +23,15 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 <details>
   <summary><b>Infrastructure & Tools</b></summary>
   <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,cloudflare,supabase,sqlite,docker,git,github,gmail,gradle,githubactions,vscode,vite,tailwind,figma,maven,npm,obsidian,powershell,bash,windows,workers" />
-</details>
+</details>　
+
+<p align="center">
+  <picture>
+    <img
+      src="https://github-widgetbox.vercel.app/api/skills?languages and frameworks=ts,js,jquery,html,css,react,next,nodejs,bootstrap,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,opencv,postgres,regex,styledcomponents,svg,swift,json, xml, yaml, tauri&frameworks=vue,react,nuxt,next,django,flutter,electron,nest,tailwind,express,svelte,angular,laravel,dotnet&libraries=tensorflow,jquery&tools=git,docker,npm,yarn,webpack,firebase,mongodb,vercel,redis,nodejs,apache,nginx,aws,gradle&software=linux,windows,vscode&theme=dark_magic_girl"
+    />
+  </picture>
+</p>
 
 ---
 
