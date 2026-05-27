@@ -47,7 +47,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KoHaRxnP)](https://github.com/KoHaRxnP/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KoHaRxnP)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 3D Contributions
 
