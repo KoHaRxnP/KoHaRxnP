@@ -40,7 +40,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 <img src="https://github-stats-eta-two.vercel.app/api/stats/KoHaRxnP?theme=github" alt="Developer Score">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHaRxnP&hide=contribs,prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHaRxnP&hide=contribs,prs)
 
 ![This Profile Last Commit](https://img.shields.io/github/last-commit/KoHaRxnP/KoHaRxnP?style=flat-square&label=Last%20Org%20Activity)
 
