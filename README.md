@@ -15,6 +15,8 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 [![Qiita](https://img.shields.io/badge/Qiita-55c500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/KoHaRxnP)
 
+[![Zenn](https://img.shields.io/badge/Zenn-3ea8ff?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/koharxnp)
+
 ---
 
 ## My Skills
