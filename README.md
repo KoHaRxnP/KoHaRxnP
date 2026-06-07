@@ -17,6 +17,8 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 [![Zenn](https://img.shields.io/badge/Zenn-3ea8ff?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/koharxnp)
 
+[![Modrinth](https://img.shields.io/badge/Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/KoHaRxnP)
+
 ---
 
 ## My Skills
