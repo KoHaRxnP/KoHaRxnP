@@ -13,6 +13,8 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SxUeXhyTmD)
 
+[![Qiita](https://img.shields.io/badge/Qiita-55c500?style=for-the-badge&logo=qiita&logoColor=white)](https://discord.gg/SxUeXhyTmD)
+
 ---
 
 ## My Skills
