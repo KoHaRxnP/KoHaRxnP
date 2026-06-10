@@ -27,14 +27,14 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
   <summary><b>Languages & Frameworks</b></summary>
   <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c" />
   <img src="https://skillicons.dev/icons?i=cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md" />
-  <img src="https://skillicons.dev/icons?i=postgres,regex,styledcomponents,svg,swift,tauri" />
+  <img src="https://skillicons.dev/icons?i=postgres,regex,styledcomponents,svg,swift,tauri, bevy" />
 </details>
 
 <details open>
   <summary><b>Infrastructure & Tools</b></summary>
   <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,cloudflare,supabase,sqlite,docker,git,github,gmail" />
   <img src="https://skillicons.dev/icons?i=gradle,githubactions,vscode,vite,tailwind,figma,maven,npm,obsidian,powershell" />
-  <img src="https://skillicons.dev/icons?i=bash,windows,workers" />
+  <img src="https://skillicons.dev/icons?i=bash,windows,workers, aws, blender" />
 </details>　
 
 ---
