@@ -30,7 +30,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
   <img src="https://skillicons.dev/icons?i=postgres,regex,styledcomponents,svg,swift,tauri" />
 </details>
 
-<details>
+<details open>
   <summary><b>Infrastructure & Tools</b></summary>
   <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,cloudflare,supabase,sqlite,docker,git,github,gmail" />
   <img src="https://skillicons.dev/icons?i=gradle,githubactions,vscode,vite,tailwind,figma,maven,npm,obsidian,powershell" />
