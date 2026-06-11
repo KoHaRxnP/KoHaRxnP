@@ -32,7 +32,9 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 <details open>
   <summary><b>Infrastructure & Tools</b></summary>
+  <div align="center">
   <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,cloudflare,supabase,sqlite,docker,git,github,gmail,gradle,githubactions,vscode,vite,tailwind,figma,maven,npm,obsidian,powershell,bash,windows,workers,aws,blender,discord,bots,discordjs,idea,pnpm,twitter,vercel,visualstudio&perline=5" />
+  </div>
 </details>　
 
 ---
