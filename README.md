@@ -25,10 +25,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 <details open>
   <summary><b>Languages & Frameworks</b></summary>
-  <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c" />
-  <img src="https://skillicons.dev/icons?i=cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md" />
-  <img src="https://skillicons.dev/icons?i=postgres,regex,styledcomponents,svg,swift,tauri,bevy,electron,jest,opencv" />
-  <img src="https://skillicons.dev/icons?i=solidjs,svelte,swift,vue" />
+  <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,postgres,regex,styledcomponents,svg,swift,tauri,bevy,electron,jest,opencv,solidjs,svelte,swift,vue&perline=5" />
 </details>
 
 <details open>
