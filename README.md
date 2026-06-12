@@ -79,8 +79,9 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&label=&icon=github&color=%230d6efd&message=&style=social&tz=localtime" alt="Visits">
 </p>
 
-### Please follow Korphere
+---
 
-<a href="https://github.com/Korphere">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Korphere&show_icons=true&theme=radial" alt="Our Organization" />
-</a>
+> [!NOTE]
+> **🚀 Join My Community!**
+> Please follow my organization, Korphere!
+> [@Korphere](https://github.com/Korphere)
