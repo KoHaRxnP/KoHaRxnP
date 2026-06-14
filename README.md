@@ -70,9 +70,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ### 3D Contributions
 
-<p align="left">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=KoHaRxnP&theme=radical" alt="GitHub 3D Contrib" />
-</p>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ### Visitors
 <p align="left">
