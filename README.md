@@ -57,7 +57,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KoHaRxnP&hide=contribs,prs)
 
-![This Profile Last Commit](https://img.shields.io/github/last-commit/KoHaRxnP/KoHaRxnP?style=flat-square&label=Last%20Org%20Activity)
+![This Profile Last Commit](https://img.shields.io/github/last-commit/KoHaRxnP/KoHaRxnP?style=flat-square&label=Last%20User%20Activity)
 
 ---
 
