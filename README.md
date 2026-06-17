@@ -23,13 +23,13 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ## My Skills
 
-###Languages & Frameworks
+### Languages & Frameworks
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,postgres,regex,styledcomponents,svg,swift,tauri,bevy,electron,jest,opencv,solidjs,svelte,vue&perline=6" />
 </div>
 
-###Infrastructure & Tools
+### Infrastructure & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,cloudflare,supabase,sqlite,docker,git,github,gmail,gradle,githubactions,vscode,vite,tailwind,figma,maven,npm,obsidian,powershell,bash,windows,workers,aws,blender,discord,bots,discordjs,idea,pnpm,twitter,vercel,visualstudio&perline=6" />
