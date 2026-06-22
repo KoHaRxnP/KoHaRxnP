@@ -35,6 +35,18 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ---
 
+### My Organizations
+
+<a href="https://github.com/Korphere" target="_blank">
+  <img src="https://github.com/Korphere.png" alt="Korphere Logo" width="60" height="60" style="border-radius: 50%;">
+</a>
+
+<a href="https://github.com/waterveinjs" target="_blank">
+  <img src="https://github.com/waterveinjs.png" alt="Waterveinjs Logo" width="60" height="60" style="border-radius: 50%;">
+</a>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
@@ -71,7 +83,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 ### Visitors
 <p align="left">
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&label=&icon=github&color=%230d6efd&message=&style=social&tz=localtime" alt="Visits">
-</p>
+</p> 
 
 ---
 
