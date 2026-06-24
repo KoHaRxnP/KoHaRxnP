@@ -45,6 +45,10 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
   <img src="https://github.com/waterveinjs.png" alt="Waterveinjs Logo" width="60" height="60" style="border-radius: 50%;">
 </a>
 
+<a href="https://github.com/scoria-lang" target="_blank">
+  <img src="https://github.com/scoria-lang.png" alt="Korphere Logo" width="60" height="60" style="border-radius: 50%;">
+</a>
+
 ---
 
 ## GitHub Stats
