@@ -9,7 +9,7 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ## My Thought
 
-> Don't add. Subtract. But don't drop below zero. 
+> Do not add. Subtract. But never let it drop below zero. 
 
 I believe that systems become less user-friendly and lose their groundbreaking nature when they are burdened with unnecessary features or constrained by existing ways of thinking. By first rejecting existing approaches and then rebuilding from scratch, I believe we can create software that minimizes trade-offs to the absolute limit. Rather than resigning ourselves to trade-offs from the outset, the path to new technology lies in changing our approach and experimenting to find ways to overcome them through trial and error.
 
