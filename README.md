@@ -15,6 +15,8 @@ I believe that systems become less user-friendly and lose their groundbreaking n
 
 > Adding a negative number to a value only decreases it.
 
+Much of the source code out there starts out beautiful and clean. However, as developers keep adding things—such as “we might significantly expand this feature in the future” or “even though no one uses it, let’s support that old, end-of-life OS”—they gradually pile on truly unnecessary elements or code that will remain useless for at least several years. As a result, usability and maintainability may decline before those added features are even used, potentially forcing the project to be abandoned. Therefore, I strongly believe we should reject the practice of clinging to unnecessary ideas and haphazardly adding source code with no clear purpose.
+
 ### Pron. : kohaɾɯpʲii
 
 ## Links
