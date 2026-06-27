@@ -60,15 +60,15 @@ I believe that systems become less user-friendly and lose their groundbreaking n
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=KoHaRxnP&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=KoHaRxnP&theme=github&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 
-  <img src="https://github-readme-stats-modified-by-koharxnp.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
+  <img src="https://github-readme-stats-modified-by-koharxnp.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=github" alt="KoHaRxnP's Stats" height="150" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=github" alt="KoHaRxnP's Streak" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-modified-by-koharxnp.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical&include_all_commits=true&include_orgs=true&show_icons=true&count_private=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats-modified-by-koharxnp.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=github&include_all_commits=true&include_orgs=true&show_icons=true&count_private=true" alt="Top Langs" height="165" />
 </p>
 
 <img src="https://github-stats-modified-by-koharxnp.vercel.app/api/stats/KoHaRxnP?theme=github" alt="Developer Score">
