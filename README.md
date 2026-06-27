@@ -7,6 +7,10 @@
 ## About Me
 I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about building robust and scalable applications.
 
+## My Thought
+
+> Don't add. Subtract. But don't drop below zero. 
+
 ### Pron. : kohaɾɯpʲii
 
 ## Links
