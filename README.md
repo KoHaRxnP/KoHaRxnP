@@ -74,8 +74,6 @@ Much of the source code out there starts out beautiful and clean. However, as de
 
 <img src="https://github-stats-modified-by-koharxnp.vercel.app/api/stats/KoHaRxnP?theme=radical" alt="Developer Score">
 
-![GitHub stats](https://github-readme-stats-modified-by-koharxnp.vercel.app/api?username=KoHaRxnP&hide=contribs,prs)
-
 ![This Profile Last Commit](https://img.shields.io/github/last-commit/KoHaRxnP/KoHaRxnP?style=flat-square&label=Last%20User%20Activity)
 
 ---
