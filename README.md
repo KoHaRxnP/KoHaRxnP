@@ -17,6 +17,13 @@ I believe that systems become less user-friendly and lose their groundbreaking n
 
 Much of the source code out there starts out beautiful and clean. However, as developers keep adding things—such as “we might significantly expand this feature in the future” or “even though no one uses it, let’s support that old, end-of-life OS”—they gradually pile on truly unnecessary elements or code that will remain useless for at least several years. As a result, usability and maintainability may decline before those added features are even used, potentially forcing the project to be abandoned. Therefore, I strongly believe we should reject the practice of clinging to unnecessary ideas and haphazardly adding source code with no clear purpose.
 
+> Hardware evolves to empower users, not to excuse lazy code.
+
+Modern devices are incredibly powerful, but that is never an excuse to ship bloated, resource-heavy software. Treating users' memory and CPU as infinite resources is a display of developer arrogance. Efficiency is not an optimization stage at the end of a project; it is a core feature that must be preserved from the very first line of code.
+
+> The best code is the code that is easiest to replace.
+
+Many developers attempt to write "perfect code" that can withstand any future change. This is an illusion that leads to over-engineering. True sustainability is not about building an unshakeable fortress, but about creating simple, independent modules that can be thrown away and rebuilt in a single day. Do not write code to last forever; write code that is effortless to replace when the time comes.
 ### Pron. : kohaɾɯpʲii
 
 ## Links
