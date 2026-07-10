@@ -52,8 +52,13 @@ Many developers attempt to write "perfect code" that can withstand any future ch
 </div>
 
 <div align="center">
+  <h3>Applications</h3>
+  <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,gmail,vscode,figma,obsidian,powershell,bash,windows,blender,discord,idea,twitter&perline=6" />
+</div>
+
+<div align="center">
   <h3>Infrastructure & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=arch,linux,ubuntu,cloudflare,supabase,sqlite,docker,git,github,gmail,gradle,githubactions,vscode,vite,tailwind,figma,maven,npm,obsidian,powershell,bash,windows,workers,aws,blender,discord,bots,discordjs,idea,pnpm,twitter,vercel,visualstudio&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,supabase,sqlite,docker,git,github,gradle,githubactions,vite,tailwind,maven,npm,workers,aws,bots,discordjs,pnpm,vercel,visualstudio&perline=6" />
 </div>
 
 ---
