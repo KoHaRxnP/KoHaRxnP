@@ -42,8 +42,13 @@ Many developers attempt to write "perfect code" that can withstand any future ch
 ## My Skills
 
 <div align="center">
-  <h3>Languages & Frameworks</h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,jquery,html,css,react,nextjs,nodejs,bootstrap,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,postgres,regex,styledcomponents,svg,swift,tauri,bevy,electron,jest,opencv,solidjs,svelte,vue&perline=6" />
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,c,cs,cpp,elixir,go,java,kotlin,py,rust,wasm,md,postgres,regex,svg,swift&perline=6" />
+</div>
+
+<div align="center">
+  <h3>Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=jquery,react,nextjs,nodejs,bootstrap,styledcomponents,tauri,bevy,electron,jest,opencv,solidjs,svelte,vue&perline=6" />
 </div>
 
 <div align="center">
