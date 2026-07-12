@@ -63,7 +63,13 @@ Many developers attempt to write "perfect code" that can withstand any future ch
 
 ---
 
-### My Organizations
+## What I'm Focusing On
+
+- watervein
+- github-influence-stats
+---
+
+## My Organizations
 
 <a href="https://github.com/Korphere" target="_blank">
   <img src="https://github.com/Korphere.png" alt="Korphere Logo" width="60" height="60" style="border-radius: 50%;">
