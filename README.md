@@ -65,7 +65,12 @@ Many developers attempt to write "perfect code" that can withstand any future ch
 
 ## What I'm Focusing On
 
-Comming Soon
+### 🌊 [Watervein](https://github.com/waterveinjs/watervein)
+> **No component. No tree. A radical re-imagining of UI systems.**
+
+I am currently developing **Watervein**, a frontend rendering system built entirely on my philosophy of "subtraction." It completely abandons the traditional, heavy "component tree" model and replaces it with a pure **DAG (Directed Acyclic Graph)** network. 
+
+If you are tired of virtual DOM diffing and nested lifecycle components, **check out the repository and leave a star! ⭐**
 
 ---
 
