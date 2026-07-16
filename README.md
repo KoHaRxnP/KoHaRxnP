@@ -116,10 +116,3 @@ Comming Soon
 <p align="left">
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FKoHaRxnP&label=&icon=github&color=%230d6efd&message=&style=social&tz=localtime" alt="Visits">
 </p> 
-
----
-
-> [!NOTE]
-> **🚀 Join My Community!**
-> Please follow my organization, Korphere!
-> [@Korphere](https://github.com/Korphere)
