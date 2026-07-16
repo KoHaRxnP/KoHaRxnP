@@ -65,8 +65,8 @@ Many developers attempt to write "perfect code" that can withstand any future ch
 
 ## What I'm Focusing On
 
-- watervein
-- github-influence-stats
+Comming Soon
+
 ---
 
 ## My Organizations
