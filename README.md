@@ -85,7 +85,11 @@ If you are tired of virtual DOM diffing and nested lifecycle components, **check
 </a>
 
 <a href="https://github.com/scoria-lang" target="_blank">
-  <img src="https://github.com/scoria-lang.png" alt="Korphere Logo" width="60" height="60" style="border-radius: 50%;">
+  <img src="https://github.com/scoria-lang.png" alt="Scoria Logo" width="60" height="60" style="border-radius: 50%;">
+</a>
+
+<a href="https://github.com/arsefpm" target="_blank">
+  <img src="https://github.com/arsef.png" alt="Arsef Logo" width="60" height="60" style="border-radius: 50%;">
 </a>
 
 ---
