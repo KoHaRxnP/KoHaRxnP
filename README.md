@@ -97,13 +97,13 @@ If you are tired of virtual DOM diffing and nested lifecycle components, **check
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
+  <img src="https://github-readme-stats-modified-by-koharxnp.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical&include_all_commits=true&include_orgs=true&show_icons=true&count_private=true" alt="Top Langs" height="165" />
+  <img src="https://github-readme-stats-modified-by-koharxnp.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical&include_all_commits=true&include_orgs=true&show_icons=true&count_private=true" alt="Top Langs" height="165" />
 
-<img src="https://github-stats-eta-two.vercel.app/api/stats/KoHaRxnP?theme=radical" alt="Developer Score">
+<img src="https://github-stats-modified-by-koharxnp.vercel.app/api/stats/KoHaRxnP?theme=radical" alt="Developer Score">
 </p>
 
 ![This Profile Last Commit](https://img.shields.io/github/last-commit/KoHaRxnP/KoHaRxnP?style=flat-square&label=Last%20User%20Activity)
