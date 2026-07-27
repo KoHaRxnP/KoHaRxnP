@@ -97,7 +97,7 @@ If you are tired of virtual DOM diffing and nested lifecycle components, **check
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-modified-by-koharxnp.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=KoHaRxnP&show_icons=true&theme=radical" alt="KoHaRxnP's Stats" height="150" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
 
