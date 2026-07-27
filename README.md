@@ -101,7 +101,7 @@ If you are tired of virtual DOM diffing and nested lifecycle components, **check
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoHaRxnP&theme=radical" alt="KoHaRxnP's Streak" height="150" />
 
-  <img src="https://github-stats-extend.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical&include_all_commits=true&include_orgs=true&show_icons=true&count_private=true" alt="Top Langs" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=KoHaRxnP&layout=compact&theme=radical&include_all_commits=true&include_orgs=true&show_icons=true&count_private=true" alt="Top Langs" height="165" />
 
 <img src="https://github-stats-modified-by-koharxnp.vercel.app/api/stats/KoHaRxnP?theme=radical" alt="Developer Score">
 </p>
