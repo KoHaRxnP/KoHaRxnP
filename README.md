@@ -108,6 +108,12 @@ If you are tired of virtual DOM diffing and nested lifecycle components, **check
 
 ![This Profile Last Commit](https://img.shields.io/github/last-commit/KoHaRxnP/KoHaRxnP?style=flat-square&label=Last%20User%20Activity)
 
+## Wakatime
+
+[![wakatime](https://wakatime.com/badge/user/ee77afb8-84b8-4b09-9cf7-f8891f87897e.svg)](https://wakatime.com/@ee77afb8-84b8-4b09-9cf7-f8891f87897e)
+
+[w](https://github-readme-stats-modified-by-koharxnp.vercel.app/api/wakatime?username=KoHaRxnP&layout=compact&theme=dark)
+
 ---
 
 ### Contribution Snake
