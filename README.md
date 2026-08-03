@@ -112,7 +112,7 @@ If you are tired of virtual DOM diffing and nested lifecycle components, **check
 
 [![wakatime](https://wakatime.com/badge/user/ee77afb8-84b8-4b09-9cf7-f8891f87897e.svg)](https://wakatime.com/@ee77afb8-84b8-4b09-9cf7-f8891f87897e)
 
-[w](https://github-readme-stats-modified-by-koharxnp.vercel.app/api/wakatime?username=KoHaRxnP&layout=compact&theme=dark)
+[w]([https://github-readme-stats-modified-by-koharxnp.vercel.app/api/wakatime?username=KoHaRxnP&layout=compact&theme=dark](https://github-readme-stats-modified-by-koharxnp.vercel.app/api/wakatime?username=ee77afb8-84b8-4b09-9cf7-f8891f87897e&layout=compact&theme=dark))
 
 ---
 
