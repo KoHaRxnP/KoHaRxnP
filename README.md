@@ -9,7 +9,8 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ### Pron.: kohaɾɯpʲii
 
-## My Thought
+<details>
+<summary>My Thought</summary>
 
 > Do not add. Subtract. But never let it drop below zero. 
 
@@ -26,6 +27,8 @@ Modern devices are incredibly powerful, but that is never an excuse to ship bloa
 > The best code is the code that is easiest to replace.
 
 Many developers attempt to write "perfect code" that can withstand any future change. This is an illusion that leads to over-engineering. True sustainability is not about building an unshakeable fortress, but about creating simple, independent modules that can be thrown away and rebuilt in a single day. Do not write code to last forever; write code that is effortless to replace when the time comes.
+
+</details>
 
 ## Links
 
