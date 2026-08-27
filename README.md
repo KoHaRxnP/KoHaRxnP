@@ -74,6 +74,10 @@ If you are tired of virtual DOM diffing and nested lifecycle components, **check
   <img src="https://github.com/scoria-lang.png" alt="Scoria Logo" width="60" height="60" style="border-radius: 50%;">
 </a>
 
+<a href="https://github.com/libyw" target="_blank">
+  <img src="https://github.com/libyw.png" alt="Scoria Logo" width="60" height="60" style="border-radius: 50%;">
+</a>
+
 ---
 
 ## GitHub Stats
