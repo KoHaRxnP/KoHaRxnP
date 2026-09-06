@@ -45,30 +45,6 @@ I'm **KoHaRxnP** (He/Him). I'm a **Fullstack Developer** passionate about buildi
 
 ---
 
-## My Organizations
-
-<a href="https://github.com/Korphere" target="_blank">
-  <img src="https://github.com/Korphere.png" alt="Korphere Logo" width="60" height="60">
-</a>
-
-<a href="https://github.com/waterveinjs" target="_blank">
-  <img src="https://github.com/waterveinjs.png" alt="Waterveinjs Logo" width="60" height="60">
-</a>
-
-<a href="https://github.com/arsefpm" target="_blank">
-  <img src="https://github.com/arsefpm.png" alt="Arsef Logo" width="60" height="60">
-</a>
-
-<a href="https://github.com/scoria-lang" target="_blank">
-  <img src="https://github.com/scoria-lang.png" alt="Scoria Logo" width="60" height="60">
-</a>
-
-<a href="https://github.com/libyw" target="_blank">
-  <img src="https://github.com/libyw.png" alt="Scoria Logo" width="60" height="60">
-</a>
-
----
-
 ## GitHub Stats
 
 <p align="center">
